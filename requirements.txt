@@ -19,6 +19,7 @@ xatlas
 trimesh[easy]
 networkx
 pysdf
+decord
 
 # deepfloyd
 xformers
