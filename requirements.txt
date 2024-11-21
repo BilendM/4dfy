@@ -19,7 +19,7 @@ xatlas
 trimesh[easy]
 networkx
 pysdf
-decord
+decord==0.6.0
 
 # deepfloyd
 xformers
